@@ -1,0 +1,500 @@
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\appsettings.json
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\FoodDelivery.exe
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\FoodDelivery.deps.json
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\FoodDelivery.runtimeconfig.json
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\FoodDelivery.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\FoodDelivery.pdb
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.FoodDelivery.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.build.FoodDelivery.props
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FoodDelivery.props
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FoodDelivery.props
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\scopedcss\bundle\FoodDelivery.styles.css
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CopyComplete
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\refint\FoodDelivery.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.pdb
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\FoodDelivery.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\obj\Debug\net6.0\ref\FoodDelivery.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Andrey\source\repos\FoodDelivery\FoodDelivery\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\appsettings.json
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\FoodDelivery.exe
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\FoodDelivery.deps.json
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\FoodDelivery.runtimeconfig.json
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\FoodDelivery.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\FoodDelivery.pdb
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\FoodDelivery.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\FoodDelivery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.FoodDelivery.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.build.FoodDelivery.props
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FoodDelivery.props
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FoodDelivery.props
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\scopedcss\bundle\FoodDelivery.styles.css
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CopyComplete
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\FoodDelivery.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\refint\FoodDelivery.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\FoodDelivery.pdb
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\FoodDelivery.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\obj\Debug\net6.0\ref\FoodDelivery.dll
+C:\Users\Andrey\source\repos\webNET-Hits-backend-aspnet-project-2\FoodDelivery\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\appsettings.json
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.exe
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.deps.json
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.runtimeconfig.json
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.pdb
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Humanizer.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfo.cs
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.FoodDelivery.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.build.FoodDelivery.props
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FoodDelivery.props
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FoodDelivery.props
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\scopedcss\bundle\FoodDelivery.styles.css
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CopyComplete
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\refint\FoodDelivery.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.pdb
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.genruntimeconfig.cache
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\ref\FoodDelivery.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Npgsql.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\appsettings.json
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.exe
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.deps.json
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.runtimeconfig.json
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.pdb
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.FoodDelivery.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.build.FoodDelivery.props
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FoodDelivery.props
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FoodDelivery.props
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\scopedcss\bundle\FoodDelivery.styles.css
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CopyComplete
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\refint\FoodDelivery.dll
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.pdb
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.genruntimeconfig.cache
+C:\Users\Andrey\Desktop\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\ref\FoodDelivery.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\appsettings.json
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.exe
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.deps.json
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.runtimeconfig.json
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\FoodDelivery.pdb
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Humanizer.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Npgsql.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfo.cs
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.FoodDelivery.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.build.FoodDelivery.props
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FoodDelivery.props
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FoodDelivery.props
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\scopedcss\bundle\FoodDelivery.styles.css
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CopyComplete
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\refint\FoodDelivery.dll
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.pdb
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\FoodDelivery.genruntimeconfig.cache
+C:\Users\semyk\source\repos\webNET-Hits-backend-aspnet-project-2-dev (1)\webNET-Hits-backend-aspnet-project-2-dev\FoodDelivery\obj\Debug\net6.0\ref\FoodDelivery.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\appsettings.json
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\FoodDelivery.exe
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\FoodDelivery.deps.json
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\FoodDelivery.runtimeconfig.json
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\FoodDelivery.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\FoodDelivery.pdb
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Humanizer.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Npgsql.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfo.cs
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\FoodDelivery.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\FoodDelivery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.FoodDelivery.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.build.FoodDelivery.props
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FoodDelivery.props
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FoodDelivery.props
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\scopedcss\bundle\FoodDelivery.styles.css
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CopyComplete
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\FoodDelivery.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\refint\FoodDelivery.dll
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\FoodDelivery.pdb
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\FoodDelivery.genruntimeconfig.cache
+C:\Users\semyk\source\repos\Backend-ASP.NET.2023\Backend-ASP.NET-2023-repos\FoodDelivery\obj\Debug\net6.0\ref\FoodDelivery.dll
